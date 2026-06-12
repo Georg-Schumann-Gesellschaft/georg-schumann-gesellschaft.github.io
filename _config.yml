@@ -1,0 +1,46 @@
+title: Georg Schumann Gesellschaft
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "sunrise"
+
+locale: "de-DE"
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
+
+navigation:
+  main:
+    - title: "Konzerte"
+      url: /konzerte/
+    - title: "Künstler"
+      url: /kuenstler/
+    - title: "Resonanz"
+      url: /resonanz/
+    - title: "Lebenslauf"
+      url: /lebenslauf/
+    - title: "150. Geburtstag"
+      url: /150-geburtstag/
+    - title: "Galerie"
+      url: /galerie/
+    - title: "Werkverzeichnis"
+      url: /werkverzeichnis/
+    - title: "Musikbeispiele"
+      url: /musikbeispiele/
+    - title: "Literatur"
+      url: /bibliography/
+    - title: "Publikationen"
+      url: /publikationen/
+    - title: "Über uns"
+      url: /about/
+    - title: "Kontakt"
+      url: /kontakt/
+    - title: "Links"
+      url: /links/
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
