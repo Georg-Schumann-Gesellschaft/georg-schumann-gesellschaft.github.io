@@ -1,27 +1,16 @@
 ---
 layout: single
-title: "Georg Schumann Gesellschaft"
+title: "Herzlich willkommen bei der Georg Schumann Gesellschaft"
 permalink: /
 ---
 
-<p align="center">
-  Die Georg Schumann Gesellschaft wünscht allen Freunden und Förderern<br />
-  ein frohes Weihnachtsfest
-</p>
+## Das Erbe eines Meisters bewahren
 
-<p align="center">
-  <img src="{{ '/assets/' | relative_url }}images/weihnachten1.GIF" alt="Weihnacht" />
-</p>
+Herzlich willkommen auf der offiziellen Webseite der Georg Schumann Gesellschaft.
 
-<p align="center">
-  und ein gesundes und friedliches neues Jahr 2026
-</p>
+Wir widmen uns dem Leben, Werk und Erbe des bedeutenden deutschen Komponisten, Dirigenten und langjährigen Direktors der Berliner Sing-Akademie, Georg Schumann (1866–1952). Als Brückenbauer zwischen Tradition und Moderne prägte er das Musikleben des späten 19. und der ersten Hälfte des 20. Jahrhunderts maßgeblich.
 
-<p align="center">
-  <img src="{{ '/assets/' | relative_url }}images/silv2010.bmp" alt="Silvester" />
-</p>
-
-<hr />
+Unsere Gesellschaft hat es sich zur Aufgabe gemacht, seine tiefgründigen Kompositionen wieder im Bewusstsein der Öffentlichkeit zu verankern und der Musikwissenschaft zugänglich zu machen.
 
 ## Georg Schumann: Ruth op. 50 auf CD
 
@@ -39,7 +28,7 @@ Die Aufnahme entstand in Zusammenarbeit mit Deutschlandfunk Kultur und seinem la
 **UPC/EAN:** 0761203566624
 **Erscheinungstermin:** 20.2.2025
 
-### Wir danken allen Beteiligten, die die Veröffentlichung ermöglicht haben:
+**Wir danken allen Beteiligten, die die Veröffentlichung ermöglicht haben:**
 
 - [Jörg-Peter Weigle](https://philharmonischer-chor.berlin/joerg-peter-weigle/)
 - [Philharmonischer Chor](https://philharmonischer-chor.berlin)
