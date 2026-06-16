@@ -9,7 +9,7 @@ permalink: /resonanz/
 **Informationen, Rezension**
 
 - [CD-Vorstellung / cpo-Empfehlung](http://www.jpc.de/jpcng/cpo/detail/-/art/Georg-Schumann-1866-1952-Symphonie-h-moll-Preis-Symphonie/hnum/3066793)
-- [FAZ vom 12.04.2013, Seite 38]({{ site.baseurl }}{{ '/assets/' | relative_url }}pdf/2013-04-12-FAZ-Kritik.pdf)
+- [FAZ vom 12.04.2013](https://fazarchiv.faz.net/document?id=FAZ__5debe612da2c47f6f02c4f475cc436db686c81ab)
 - [FAZ vom 12.04.2013, Seite 38 (Ausschnitt)]({{ site.baseurl }}{{ '/assets/' | relative_url }}pdf/2013-04-12-FAZ-klein.pdf)
 
 ---
@@ -19,7 +19,7 @@ permalink: /resonanz/
 **Informationen, Rezension**
 
 - [CD-Vorstellung / cpo-Empfehlung](http://www.jpc.de/jpcng/cpo/detail/-/art/Georg-Schumann-1866-1952-Klaviertrios-Nr-1-2-opp-25-62/hnum/4919254)
-- [Im Porträt: Georg Schumann (WDR 3 TonArt vom 15.11.2011)](http://www.wdr3.de/tonart/details/artikel/wdr-3-tonart-52334a99d5.html)
+- Im Porträt: Georg Schumann (WDR 3 TonArt vom 15.11.2011)
 - [Beitrag hören](http://www.georgschumanngesellschaft.de/WDR3-Details.mp3)
 - [Klassik.com / Klassik heute](http://www.klassikheute.de/kh/3cds/20111130_20268.shtml)
 
@@ -37,8 +37,9 @@ permalink: /resonanz/
 ---
 
 ### Georg Schumann: Ruth (2003)
+
 **für gemischten Chor, Soli und Orchester (1908)**
-4. November 2003, Philharmonie Berlin, Großer Saal
+4\. November 2003, Philharmonie Berlin, Großer Saal
 
 **Konzert-Vorschau**
 - [neue musikzeitung (nmz) / Berliner Morgenpost](/resonanz/ruth-vorschau/)
@@ -49,7 +50,8 @@ permalink: /resonanz/
 ---
 
 ### Das kleine Hauskonzert (2003)
-16. Juli 2003, Bad Mergentheim, Wandelhalle
+
+16\. Juli 2003, Bad Mergentheim, Wandelhalle
 
 **Resonanz**
 - [Fränkische Nachrichten](/resonanz/16-07-03/)
@@ -58,5 +60,5 @@ permalink: /resonanz/
 
 ### CD - Georg Schumann - Chorwerke (2001)
 
-**Informationen**
-- [Gramophone Magazine](/resonanz/rezension-chorwerke/)
+**Review**
+- [Gramophone Magazine](https://www.gramophone.co.uk/reviews/schumann-g-choral-music)

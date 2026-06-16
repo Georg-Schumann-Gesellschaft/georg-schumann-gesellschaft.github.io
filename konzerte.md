@@ -77,6 +77,9 @@ Oratorium für gemischten Chor, Soli und Orchester (1908)
 [Website des Brandenburgischen Staatsorchesters Frankfurt (Oder)](https://www.bsof.de/de/konzerte2022/128713)
 [Podcast des Philharmonischen Chores: Warum Ruth?](https://www.bsof.de/de/konzerte2022/128713)
 
+Rezension:
+[Tagesspiegel](https://www.tagesspiegel.de/kultur/eine-entdeckung-das-oratorium-ruth-der-liebe-macht-9459998.html)
+
 ---
 
 ### 2020
@@ -86,12 +89,11 @@ Frankfurt (Oder), Konzerthalle »Carl Philipp Emanuel Bach«, Großer Saal
 
 **Georg Schumann: Ruth**
 Oratorium für gemischten Chor, Soli und Orchester (1908)
-[https://www.bsof.de/de/konzerte2018/94588](https://www.bsof.de/de/konzerte2018/94588)
 weitere Informationen unter "Ruth 2020"
 
 **11. März 2020, 20.00 Uhr**
 Berliner Philharmonie, Großer Saal
-Die 2. Aufführung der "Ruth" musste aufgrund der Generalabsage öffentlicher Veranstaltungen in Berlin durch die Senatsverwaltung infolge der Corona-Pandemie ausfallen.
+*Die 2. Aufführung der "Ruth" musste aufgrund der Generalabsage öffentlicher Veranstaltungen in Berlin durch die Senatsverwaltung infolge der Corona-Pandemie ausfallen.*
 [https://philharmonischer-chor.berlin/](https://philharmonischer-chor.berlin/)
 
 ---
@@ -114,6 +116,7 @@ Einige Höhepunkte sind unter [150. Geburtstag](/150-geburtstag/) präsentiert.
 
 **Georg Schumann (1886-1952)**
 Gesänge Hiobs, für gemischten Chor und Orgel, op. 60
+
 1. Wo ist ein Mensch wenn er tot?
 2. Muss nicht der Mensch immer im Streit sein?
 3. O dass ich wäre, wie in den Tagen
