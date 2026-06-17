@@ -25,15 +25,15 @@ navigation:
     - title: "150. Geburtstag"
       url: /150-geburtstag/
     - title: "Galerie"
-      url: /galerie/
+      url: /gallery/
     - title: "Werkverzeichnis"
       url: /werkverzeichnis/
-    - title: "Musikbeispiele"
-      url: /musikbeispiele/
+    - title: "Diskographie"
+      url: /discography/
     - title: "Literatur"
       url: /bibliography/
     - title: "Publikationen"
-      url: /publikationen/
+      url: /publications/
     - title: "Über uns"
       url: /about/
     - title: "Kontakt"

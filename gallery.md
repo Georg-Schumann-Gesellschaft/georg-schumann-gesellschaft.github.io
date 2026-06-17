@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Galerie"
-permalink: /galerie/
+permalink: /gallery/
 
 # Hier definieren wir die Bildergalerie nativ für Minimal Mistakes
 portrait_gallery:
@@ -13,14 +13,18 @@ portrait_gallery:
     image_path: /assets/images/schum2.jpg
     alt: "Georg Schumann um 1891"
     title: "Georg Schumann um 1891. Photographie von Gottheil & Sohn, Danzig. Quelle: Georg Schumann Gesellschaft"
-  - url: /assets/images/schum1a.jpg
-    image_path: /assets/images/schum1a.jpg
+  - url: /assets/images/Georg_Schumann_1906.jpg
+    image_path: /assets/images/Georg_Schumann_1906.jpg
     alt: "Georg Schumann 1906"
     title: "Georg Schumann 1906 (Ausschnitt). Photographie von Albert Meyer, Nachf. Oscar Brettschneider, Berlin. Quelle: Georg Schumann Gesellschaft"
   - url: /assets/images/schum4.jpg
     image_path: /assets/images/schum4.jpg
     alt: "Georg Schumann um 1909"
     title: "Georg Schumann um 1909. Photographie, Berlin. Quelle: Georg Schumann Gesellschaft"
+  - url: /assets/images/Georg_Schumann_1925.jpg
+    image_path: /assets/images/Georg_Schumann_1925.jpg
+    alt: "Georg Schumann 1925"
+    title: "Georg Schumann 1925. Photographie, Berlin. Quelle: Georg Schünemann: Die Singakademie zu Berlin"
   - url: /assets/images/schum5.jpg
     image_path: /assets/images/schum5.jpg
     alt: "Georg Alfred Schumann 1936"
