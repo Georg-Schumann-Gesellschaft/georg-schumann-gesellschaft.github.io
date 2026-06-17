@@ -13,12 +13,12 @@ main:
     url: /galerie/
   - title: "Werkverzeichnis"
     url: /werkverzeichnis/
-  - title: "Musikbeispiele"
-    url: /musikbeispiele/
+  - title: "Diskographie"
+    url: /discography/
   - title: "Literatur"
     url: /bibliography/
   - title: "Publikationen"
-    url: /publikationen/
+    url: /publications/
   - title: "Über uns"
     url: /about/
   - title: "Kontakt"

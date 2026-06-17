@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Musikbeispiele / Diskographie"
-permalink: /musikbeispiele/
+title: "Diskographie"
+permalink: /discography/
 ---
 
 <div class="archive__item" markdown="1" style="overflow: hidden; border-bottom: 1px solid #f2f3f3;">

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Publikationen"
-permalink: /publikationen/
+permalink: /publications/
 ---
 
 Auf dieser Seite veröffentlicht die Georg Schumann Gesellschaft künftig Neuausgaben von Georg Schumanns Kompositionen.
