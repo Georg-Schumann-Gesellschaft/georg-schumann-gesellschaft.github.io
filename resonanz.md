@@ -10,7 +10,6 @@ permalink: /resonanz/
 
 - [CD-Vorstellung / cpo-Empfehlung](http://www.jpc.de/jpcng/cpo/detail/-/art/Georg-Schumann-1866-1952-Symphonie-h-moll-Preis-Symphonie/hnum/3066793)
 - [FAZ vom 12.04.2013](https://fazarchiv.faz.net/document?id=FAZ__5debe612da2c47f6f02c4f475cc436db686c81ab)
-- [FAZ vom 12.04.2013, Seite 38 (Ausschnitt)]({{ site.baseurl }}{{ '/assets/' | relative_url }}pdf/2013-04-12-FAZ-klein.pdf)
 
 ---
 

@@ -53,7 +53,6 @@ Würzburg, Neubaukirche
 
 **Georg Schumann:**
 Totenklage, Op. 33 - Sehnsucht, Op. 40 - Vita Somnium, Op. 78a - Elegie, Op. 78b
-[Konzertflyer zum Download](https://www.monteverdichor.com/pdf/plakate/2024_06.pdf)
 
 **MonteverdiChor, Würzburg**
 **Vogtland Philharmonie Greiz-Reichenbach**
@@ -71,7 +70,6 @@ Berlin, Philharmonie, Großer Saal
 
 **Georg Schumann: Ruth**
 Oratorium für gemischten Chor, Soli und Orchester (1908)
-[Konzertflyer zum Download](https://philharmonischer-chor.berlin/wp-content/uploads/2023/02/PCB_Web-Flyer_Saison22-23_Abokonzert-3_230201.pdf)
 
 [Website des Philharmonischen Chores](https://philharmonischer-chor.berlin/georg-schumann-2/)
 [Website des Brandenburgischen Staatsorchesters Frankfurt (Oder)](https://www.bsof.de/de/konzerte2022/128713)
@@ -127,8 +125,6 @@ Musiker der **Dresdner Philharmonie**
 Vocal Concert Dresden
 Leitung: Peter Kopp
 
-- [Vorbericht der "Dresdner Neueste Nachrichten"]({{ site.baseurl }}{{ '/assets/' | relative_url }}pdf/2016-11-18%20-%20DD.pdf)
-
 ---
 
 ##### Aufführung von Georg Schumanns Hauptwerk „Ruth“ am 5. und 6. November 2016 in der Marktkirche St. Nicolai in Hameln
@@ -141,9 +137,6 @@ Brian Davis (Boas - Bariton) – Steffen Henning (Priester - Bariton)
 göttinger vokalensemble
 **Nordwestdeutsche Philharmonie**
 Leitung: Stefan Vanselow
-
-- [Konzertkritik Deister und Weserzeitung Kultur]({{ site.baseurl }}{{ '/assets/' | relative_url }}pdf/Ruth_Schumann_Hameln_2016.pdf)
-- [Rezension aus "Musik & Kirche 01/2017"]({{ site.baseurl }}{{ '/assets/' | relative_url }}pdf/2017-1_MusikUndKirche_Rezension_2016-11-06_Ruth.pdf)
 
 <img src="{{ '/assets/' | relative_url }}images/konzert-ham-kantorei.jpg" alt="Ruth Hameln" width="320" />
 
@@ -215,9 +208,6 @@ Werke von **Georg Schumann** und **Josef Rheinberger**
 
 **Münchner Klaviertrio**
 (Michael Arlt - Geige, Gerhard Zank - Cello, Donald Sulzen - Klavier)
-
-[![Max Planck]({{ site.baseurl }}{{ '/assets/' | relative_url }}images/Max-Planck-klein.JPG)]({{ site.baseurl }}{{ '/assets/' | relative_url }}pdf/MPIWG_Konzerte_kl.pdf)
-[Veranstaltungen des Max Planck Instituts für Wissenschaftsgeschichte](http://www.mpiwg-berlin.mpg.de/de/aktuelles/index.html#0063)
 
 **20. November 2010, 15.00 Uhr**
 Kaiser-Wilhelm-Gedächtniskirche, Berlin - Breitscheidplatz sowie am
@@ -298,7 +288,6 @@ Renate Wirth, Orgel (Fürstenwalde, Berlin-Dahlem)
 Axel La-Deur, Orgel (Hannover)
 Wilhelmshavener Vokalensemble
 Leitung: Ralf Popken
-[weitere Informationen]({{ site.baseurl }}{{ '/assets/' | relative_url }}pdf/thule.pdf)
 
 **Sonntag, 12. April 2008, ab 19.00 Uhr**
 Georg Schumann Haus, Morgensternstraße 8, 12207 Berlin-Lichterfelde
@@ -360,8 +349,6 @@ EuropaChorAkademie, Bremen
 Leitung: Wieslaw Delimat, Pablo Heras Casado, Povilas Gylys und Joshard Daus
 
 Studiogespräch: "Bethlehem ist überall und zu jeder Zeit"
-[www.dradio.de/dkultur/vorschau/](http://www.dradio.de/dkultur/vorschau/)
-[Informationen "Georg Schumann in Bremen"]({{ site.baseurl }}{{ '/assets/' | relative_url }}pdf/schum-bremen.pdf)
 
 **Dienstag, 19. Dezember 2006, 20.00 Uhr**
 Berliner Philharmonie, Kammermusiksaal
@@ -386,7 +373,6 @@ Werke von Georg Schumann, Schütz, Mendelssohn, Rheinberger u. a.
 31. Bachwochen Dill, Dillenburg
 Georg Schumann: Klaviertrio Op. 25, W. Sterndale Bennett: Klaviertrio Op. 26, W. A. Mozart: Klaviertrio KV 564
 Tavuk Trio
-[Bachwochen Dill 2006 - Veranstaltungsübersicht]({{ site.baseurl }}{{ '/assets/' | relative_url }}pdf/dill2006.pdf)
 
 **Samstag, 28. Oktober 2006, um 19.30 Uhr**
 Reinickendorfer Kirchenmusiktage, Johanneskirche in Berlin-Frohnau

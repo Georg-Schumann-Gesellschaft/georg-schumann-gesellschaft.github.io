@@ -145,4 +145,4 @@ von Klaus Rettinghaus (Stand 19.11.2006)
 
 ---
 
-**[Werkverzeichnis zum Downloaden als .pdf-Datei]({{ site.baseurl }}{{ '/assets/pdf/werkverzeichnis.pdf' | relative_url }})**
+**[Werkverzeichnis zum Downloaden als PDF-Datei]({{ site.baseurl }}{{ '/assets/pdf/werkverzeichnis.pdf' | relative_url }})**

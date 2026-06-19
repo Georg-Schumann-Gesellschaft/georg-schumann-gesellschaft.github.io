@@ -76,8 +76,6 @@ Label: Stone, Erscheinungstermin: 26. Januar 2018.
 
 Enthält auch: Ouvertüre zu einem Drama op. 45; Lebensfreude-Ouvertüre op. 54. Label: CPO, 2017.
 
-**Kritiken:** [Opus Klassiek](https://opusklassiek.nl), [Concerti](http://concerti.de), [MusicWeb International]({{ site.baseurl }}{{ '/assets/' | relative_url }}pdf/17-12-musicWeb Symph f-minor.pdf).
-
 </div>
 
 <div class="archive__item" markdown="1" style="overflow: hidden; border-bottom: 1px solid #f2f3f3;">
