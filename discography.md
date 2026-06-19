@@ -51,6 +51,21 @@ Enthält auch: Ouvertüre zu einem Drama op. 45; Lebensfreude-Ouvertüre op. 54.
 
 <div class="archive__item" markdown="1" style="overflow: hidden; border-bottom: 1px solid #f2f3f3;">
 
+### CD-Neuerscheinung: ...wie liegt die Welt so schön! (2016)
+
+**Anspruchsvolle A-Capella-Werke**
+**Universitätschor Marburg**
+
+Mit Werken von Wilhelm Berger, Hugo Diestler, Georg Schumann, Peter A. Cornelius, Ferdinand von Hiller u.v.m.
+
+*...Die von harmonischen Reichtum gleichsam überfließende, bis zu 10-stimmige Choralmotette über „Wie schön leucht’ uns der Morgenstern“ im spätestromantischen Stil von Georg Schumann (1866-1952) ist zweifelsohne ein besonderer Höhepunkt der CD...*
+
+<img src="{{ '/assets/' | relative_url }}images/cd-unichor-marbg.png" alt="Universitätschor Marburg CD" width="260" />
+
+</div>
+
+<div class="archive__item" markdown="1" style="overflow: hidden; border-bottom: 1px solid #f2f3f3;">
+
 ### Georg Schumann - Klavierquartett und Cello-Sonate (2015)
 
 ![CD Cover]({{ site.url }}{{ site.baseurl }}/assets/images/cover_piaquart+celloson-hp.jpg){: .align-left}

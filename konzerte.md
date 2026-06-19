@@ -104,13 +104,9 @@ Berliner Philharmonie, Großer Saal
 
 ##### Dresdner Kreuzchor mit Georg-Schumann-Motette
 
-Am Samstag, dem 28. Januar 2017, 17.00 Uhr, sang der [Dresdner Kreuzchor](http://kreuzchor.de/) unter Leitung von Peter Kopp in seiner traditionellen "Vesper" die Motette "Sollt ich meinem Gott nicht singen?" op. 75, Nr. 2 von Georg Schumann.
-
-**Aufführungsort:** Dresdner Kreuzkirche, An der Kreuzkirche 6, 01067 Dresden
+Am Samstag, dem 28. Januar 2017, 17.00 Uhr, sang der [Dresdner Kreuzchor](https://kreuzchor.de/) unter Leitung von Peter Kopp in seiner traditionellen "Vesper" die Motette "Sollt ich meinem Gott nicht singen?" op. 75, Nr. 2 von Georg Schumann.
 
 Die drei Choralmotetten für gemischten Chor op. 75 - Nr. 1 "Jerusalem, du hochgebaute Stadt", Nr. 2 "Sollt’ ich meinem Gott nicht singen?" und Nr. 3 "Mit Fried und Freud ich fahr dahin" - wurden im Saale der Sing-Akademie zu Berlin am 12. Mai 1934 erstaufgeführt. Der Erstdruck der Motetten erfolgte bei Lienau (vormals Schlesinger). Im Jahr 2007 hatten die britischen The Purcell Singers unter dem Titel "Jerusalem, du hochgebaute Stadt" die Choralmotetten op. 71 und 75 auf CD eingespielt.
-
-<img src="{{ '/assets/' | relative_url }}images/logo-kreuzchor.jpg" alt="Dresdner Kreuzchor" width="360" />
 
 ---
 
@@ -217,7 +213,7 @@ Max Planck Institut für Wissenschaftsgeschichte, Boltzmannstr. 22, 14195 Berlin
 
 Werke von **Georg Schumann** und **Josef Rheinberger**
 
-[Münchner Klaviertrio](/kuenstler/)
+**Münchner Klaviertrio**
 (Michael Arlt - Geige, Gerhard Zank - Cello, Donald Sulzen - Klavier)
 
 [![Max Planck]({{ site.baseurl }}{{ '/assets/' | relative_url }}images/Max-Planck-klein.JPG)]({{ site.baseurl }}{{ '/assets/' | relative_url }}pdf/MPIWG_Konzerte_kl.pdf)
