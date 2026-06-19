@@ -15,9 +15,7 @@ main:
     url: /bibliography/
   - title: "Publikationen"
     url: /publications/
-  - title: "Über uns"
-    url: /about/
   - title: "Kontakt"
     url: /kontakt/
-  - title: "Links"
-    url: /links/
+  - title: "Über uns"
+    url: /about/
