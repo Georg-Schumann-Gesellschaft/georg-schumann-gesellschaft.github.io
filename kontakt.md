@@ -11,7 +11,6 @@ author_profile: true
 Morgensternstraße 8  
 12207 Berlin  
 
-**Telefon:** [+49 (0) 172 316 25 38](tel:+491723162538)  
 **E-Mail:** [georg.schumann@berlin.de](mailto:georg.schumann@berlin.de)  
 **Internet:** [www.georgschumanngesellschaft.de](http://www.georgschumanngesellschaft.de)
 
@@ -39,7 +38,6 @@ Morgensternstraße 8
 12207 Berlin  
 
 #### Kontakt
-**Telefon:** [+49 (0) 172 316 25 38](tel:+491723162538)  
 **E-Mail:** [georg.schumann@berlin.de](mailto:georg.schumann@berlin.de)  
 
 #### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV / § 18 MStV
