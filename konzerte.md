@@ -54,11 +54,11 @@ Würzburg, Neubaukirche
 **Georg Schumann:**
 Totenklage, Op. 33 - Sehnsucht, Op. 40 - Vita Somnium, Op. 78a - Elegie, Op. 78b
 
-**MonteverdiChor, Würzburg**
-**Vogtland Philharmonie Greiz-Reichenbach**
+**MonteverdiChor, Würzburg**\
+**Vogtland Philharmonie Greiz-Reichenbach**\
 Leitung: Matthias Beckert
 
-[Website des MonteverdiChores](https://www.monteverdichor.com/konzerte.html)
+[Website des MonteverdiChores](https://www.monteverdichor.com/konzerte.html)\
 [Website der Vogtland Philharmonie](https://v-ph.de/konzerte/veranstaltungsort/konzert?tx_theatre_event%5Baction%5D=showEvent&tx_theatre_event%5Bevent%5D=738&cHash=ad3f035826b72861bb57f519cc7c70d7)
 
 ---
@@ -143,6 +143,7 @@ Leitung: Stefan Vanselow
 ---
 
 ### Rückblick: HIOB - Ein oratorisches Konzert am 18. November 2016
+
 Kaiser-Wilhelm-Gedächtnis-Kirche, Berlin
 Mit Werken von Georg Schumann, Luigi Dallapiccola, Giacomo Carissimi.
 
@@ -236,13 +237,20 @@ St. Nikolaikirche, Am Alten Markt, Potsdam
 
 u. a.:
 **Johann Christoph Altnikol (1719-1759)**
-"Befiehl du deine Wege", Motette für vierstimmigen gemischten Chor
+
+- "Befiehl du deine Wege", Motette für vierstimmigen gemischten Chor
+
 **Johannes Brahms (1833-1897)**
-"Warum ist das Licht gegeben dem Mühseligen", Motette für gemischten Chor, op. 74
+
+- "Warum ist das Licht gegeben dem Mühseligen", Motette für gemischten Chor, op. 74
+
 **Johannes Brahms (1833-1897)**
-"O Heiland, reiß die Himmel auf", Motette für vierstimmigen gemischten Chor, op. 74, Nr. 2
+
+- "O Heiland, reiß die Himmel auf", Motette für vierstimmigen gemischten Chor, op. 74, Nr. 2
+
 **Georg Schumann (1886-1952)**
-"Jesus, meine Zuversicht", Motette für vier- bis fünfstimmigen gemischten Chor nach Dichtungen von Luise Henriette, Kurfürstin von Brandenburg und Chr. Gellert, op. 71, 2
+
+- "Jesus, meine Zuversicht", Motette für vier- bis fünfstimmigen gemischten Chor nach Dichtungen von Luise Henriette, Kurfürstin von Brandenburg und Chr. Gellert, op. 71, 2
 
 Ausführende: Björn O. Wiede, Orgel und Klavier
 Chor und Kammerchor der Internationalen Chorakademie 2009
@@ -260,26 +268,28 @@ Klavierabend zu vier Händen
 Madalina Passol und András Vermesy (Piano)
 
 **Freitag, 1. August 2008, 19.00 Uhr, Fürstenwalde, Dom**
-Wiederholungen:
-Samstag, 2. August 2008, 19.00 Uhr, Berlin-Dahlem, Jesus-Christus-Kirche
+Wiederholungen:\
+Samstag, 2. August 2008, 19.00 Uhr, Berlin-Dahlem, Jesus-Christus-Kirche\
 Sonntag, 3. August 2008, 18.00 Uhr, Hannover, Kreuzkirche
 
 **„Drei Welten“**
 
 **Paul Hindemith (1895-1963)**
-Zweite Orgelsonate (1937)
-1. Satz: Lebhaft, 2. Satz: Ruhig bewegt, 3. Satz: Fuge, mäßig bewegt, heiter
+Zweite Orgelsonate (1937)\
+1.\ Satz: Lebhaft, 2. Satz: Ruhig bewegt, 3. Satz: Fuge, mäßig bewegt, heiter
 
 **Hugo Distler (1908-1942)**
-„Nun ruhen alle Wälder“ Abendmotette
-„Das ist je gewisslich wahr“ Geistliche Chormusik op. 12,8
-„Christ, der du bist der helle Tag“, Orgelpartita
-„Die Sonne sinkt von hinnen“, Abendmotette
+
+- „Nun ruhen alle Wälder“ Abendmotette
+- „Das ist je gewisslich wahr“ Geistliche Chormusik op. 12,8
+- „Christ, der du bist der helle Tag“, Orgelpartita
+- „Die Sonne sinkt von hinnen“, Abendmotette
 
 **Heinrich Schütz (1585 - 1672)**
-„Herr, wenn ich nur dich habe“ aus den Musicalischen Exequien
-„Die Himmel erzählen die Ehre Gottes“ aus der Geistlichen Chormusic
-„Jauchzet dem Herren“ aus dem Schwanengesang
+
+- „Herr, wenn ich nur dich habe“ aus den Musicalischen Exequien
+- Die Himmel erzählen die Ehre Gottes“ aus der Geistlichen Chormusic
+- „Jauchzet dem Herren“ aus dem Schwanengesang
 
 **Georg Schumann (1866-1952)**
 „Jerusalem, du hochgebaute Stadt“
@@ -358,19 +368,19 @@ Chormusik a capella aus Deutschland, Frankreich, Spanien, Polen und dem Baltikum
 EuropaChorAkademie, Bremen
 Leitung: Joshard Daus
 
-Werke von Georg Schumann:
-Maria Wiegenlied am Dreikönigstage, op. 51 Nr. 2
-Beim Kindelwiegen, op. 63 Nr. 1
-Huldigung beim Jesukinde, op. 51 Nr. 3
+Werke von Georg Schumann:\
+Maria Wiegenlied am Dreikönigstage, op. 51 Nr. 2\
+Beim Kindelwiegen, op. 63 Nr. 1\
+Huldigung beim Jesukinde, op. 51 Nr. 3\
 
 **Sonntag, 3. Dezember 2006, 16.00 Uhr**
 Nikolaikirche, Berlin-Mitte
 
-Weihnachtskonzert der Berliner Singakademie
+Weihnachtskonzert der Berliner Singakademie\
 Werke von Georg Schumann, Schütz, Mendelssohn, Rheinberger u. a.
 
 **Sonntag, 12. November 2006, 11.00 Uhr**
-31. Bachwochen Dill, Dillenburg
+31\. Bachwochen Dill, Dillenburg
 Georg Schumann: Klaviertrio Op. 25, W. Sterndale Bennett: Klaviertrio Op. 26, W. A. Mozart: Klaviertrio KV 564
 Tavuk Trio
 
