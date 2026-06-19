@@ -1,8 +1,6 @@
 main:
   - title: "Konzerte"
     url: /konzerte/
-  - title: "Künstler"
-    url: /kuenstler/
   - title: "Resonanz"
     url: /resonanz/
   - title: "Lebenslauf"
