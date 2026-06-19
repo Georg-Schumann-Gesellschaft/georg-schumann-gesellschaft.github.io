@@ -4,6 +4,37 @@ title: "Diskographie"
 permalink: /discography/
 ---
 
+## Georg Schumann: Ruth op. 50 auf CD
+
+<div class="archive__item" markdown="1" style="overflow: hidden; border-bottom: 1px solid #f2f3f3;">
+
+![CD Cover]({{ site.url }}{{ site.baseurl }}/assets/images/2025.Ruth_G._Schumann_CPO_Cover,kl.jpg){: .align-left}
+
+**Das renommierte CD-Label CPO veröffentlichte Georg Schumanns Hauptwerk "Ruth", op. 50 auf CD.**
+
+Damit haben Jörg-Peter Weigle, der Philharmonische Chor Berlin, das Brandenburgische Staatsorchester Frankfurt und die wunderbaren Solistinnen und Solisten Marcelina Román, Julie-Marie Sundal, Hanno Müller-Brachmann und Jonas Böhm den wichtigen Meilenstein zu Wiederbelebung der Musik Georg Schumanns und dieses großartigen und feinsinnigen Werkes gesetzt.
+
+Die Aufnahme entstand in Zusammenarbeit mit Deutschlandfunk Kultur und seinem langjährigen Musikproduzenten Stefan Lang anläßlich der Wiederaufführung am 5. März 2023 in der Berliner Phiharmonie in einem Konzert des Philharmonischen Chores.
+
+[**Bestellmöglichkeit bei cpo**](https://www.jpc.de/jpcng/cpo/detail/-/art/georg-schumann-ruth/hnum/11655376)
+
+**Artikelnummer:** 11655376
+**UPC/EAN:** 0761203566624
+**Erscheinungstermin:** 20.2.2025
+
+**Wir danken allen Beteiligten, die die Veröffentlichung ermöglicht haben:**
+
+- [Jörg-Peter Weigle](https://philharmonischer-chor.berlin/joerg-peter-weigle/)
+- [Philharmonischer Chor](https://philharmonischer-chor.berlin)
+- [Brandenburgisches Staatsorchester](https://www.bsof.de)
+- [Marcelina Román](https://marcelinaroman.com)
+- [Julie-Marie Sundal](https://www.juliemariesundal.com)
+- [Hanno Müller-Brachmann](https://www.mueller-brachmann.com)
+- [Jonas Böhm](https://www.weiler-artists.de/künstler/bariton/jonas-böhm/)
+- [Deutschlandfunk Kultur](https://www.deutschlandfunkkultur.de/)
+
+</div>
+
 <div class="archive__item" markdown="1" style="overflow: hidden; border-bottom: 1px solid #f2f3f3;">
 
 ### Georg Schumann - Klavierwerke (2020)
@@ -53,14 +84,14 @@ Enthält auch: Ouvertüre zu einem Drama op. 45; Lebensfreude-Ouvertüre op. 54.
 
 ### CD-Neuerscheinung: ...wie liegt die Welt so schön! (2016)
 
+![CD Cover]({{ site.url }}{{ site.baseurl }}/assets/images/cd-unichor-marbg.png){: .align-left}
+
 **Anspruchsvolle A-Capella-Werke**
 **Universitätschor Marburg**
 
 Mit Werken von Wilhelm Berger, Hugo Diestler, Georg Schumann, Peter A. Cornelius, Ferdinand von Hiller u.v.m.
 
-*...Die von harmonischen Reichtum gleichsam überfließende, bis zu 10-stimmige Choralmotette über „Wie schön leucht’ uns der Morgenstern“ im spätestromantischen Stil von Georg Schumann (1866-1952) ist zweifelsohne ein besonderer Höhepunkt der CD...*
-
-<img src="{{ '/assets/' | relative_url }}images/cd-unichor-marbg.png" alt="Universitätschor Marburg CD" width="260" />
+*… Die von harmonischen Reichtum gleichsam überfließende, bis zu 10-stimmige Choralmotette über „Wie schön leucht’ uns der Morgenstern“ im spätestromantischen Stil von Georg Schumann (1866-1952) ist zweifelsohne ein besonderer Höhepunkt der CD …*
 
 </div>
 
