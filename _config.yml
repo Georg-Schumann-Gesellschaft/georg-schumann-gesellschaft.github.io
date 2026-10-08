@@ -35,6 +35,9 @@ navigation:
     - title: "Über uns"
       url: /about/
 
+atom_feed:
+  hide: true
+
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
